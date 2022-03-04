@@ -1,4 +1,4 @@
-# Mobile-Protfolio
+https://tasnimulhasan07.github.io/
 
 This site will be used as a mobile application to show off Tasnimul Hasan' protfolio, here he will display all projects that he worked on previously to prove his programming skills.
 ______________
@@ -42,7 +42,7 @@ _________________
 # 🤝 Contributing <br>
 Contributions, issues, and feature requests are welcome! <br>
 
-Feel free to check the https://github.com/tasnimulhasan07/hello-microverse-00 to get the project.
+Feel free to check the https://github.com/tasnimulhasan07/tasnimulhasan07.github.io to get the project.
 
 # Show your support <br>
 Give a ⭐️ if you like this project!
